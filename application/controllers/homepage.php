@@ -23,4 +23,9 @@ class homepage extends CI_Controller {
 		$this->load->view('homepage.php');
 	}
 
+	public function webdevelopment()
+	{
+		$this->load->view('./website_views/portfolio_details/webandmobile_development');
+	}
+
 }

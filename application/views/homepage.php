@@ -193,7 +193,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="ri-computer-fill"></i></div>
-              <h4><a href="">Web & Mobile App Development</a></h4>
+              <h4><a href="<?php echo base_url();?>webdevelopment">Web & Mobile App Development</a></h4>
               <p></p>
             </div>
           </div>

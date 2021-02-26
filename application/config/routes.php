@@ -54,4 +54,6 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 //============================================ application routes =============================================================//
-$route['home']                                       = 'homepage/index';
+//$route['home']                                       = 'homepage/index';
+$route['webdevelopment']                             = 'homepage/webdevelopment';
+
