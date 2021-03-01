@@ -28,4 +28,47 @@ class homepage extends CI_Controller {
 		$this->load->view('./website_views/portfolio_details/webandmobile_development');
 	}
 
+	public function cctv_control()
+	{
+		$this->load->view('./website_views/portfolio_details/cctvmonitoring_accesscontrol');
+	}
+
+	
+	//=================================== CCTV clients ================================================//
+	public function sasitha_aluthwala()
+	{
+		$this->load->view('./website_views/portfolio_details/CCTV/sasitha_aluthwala');
+
+	}
+
+	public function duminda_batapola()
+	{
+		$this->load->view('./website_views/portfolio_details/CCTV/duminda_batapola');
+
+	}
+
+	public function dushani_delgoda()
+	{
+		$this->load->view('./website_views/portfolio_details/CCTV/dushani_delgoda');
+
+	}
+
+	public function ashan_ganemulla()
+	{
+		$this->load->view('./website_views/portfolio_details/CCTV/ashan_ganemulla');
+
+	}
+
+	public function renuka_meetiyagoda()
+	{
+		$this->load->view('./website_views/portfolio_details/CCTV/renuka_meetiyagoda');
+
+	}
+
+	public function dasun_rathmalana()
+	{
+		$this->load->view('./website_views/portfolio_details/CCTV/dasun_rathmalana');
+
+	}
+
 }

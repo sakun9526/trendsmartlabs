@@ -24,10 +24,10 @@
         <div class="portfolio-details-container">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="<?php echo asset_url();?>web_assets/img/portfolio/ASAcinnamon1.jpg" class="img-fluid" alt="">
-            <img src="<?php echo asset_url();?>web_assets/img/portfolio/ASAcinnamon2.jpg" class="img-fluid" alt="">
-            <img src="<?php echo asset_url();?>web_assets/img/portfolio/ASAcinnamon3.jpg" class="img-fluid" alt="">
-            <img src="<?php echo asset_url();?>web_assets/img/portfolio/ASAcinnamon4.jpg" class="img-fluid" alt="">
+            <img src="<?php echo asset_url();?>web_assets/img/portfolio/WEBDEV/ASA/ASAcinnamon1.jpg" class="img-fluid" alt="">
+            <img src="<?php echo asset_url();?>web_assets/img/portfolio/WEBDEV/ASA/ASAcinnamon2.jpg" class="img-fluid" alt="">
+            <img src="<?php echo asset_url();?>web_assets/img/portfolio/WEBDEV/ASA/ASAcinnamon3.jpg" class="img-fluid" alt="">
+            <img src="<?php echo asset_url();?>web_assets/img/portfolio/WEBDEV/ASA/ASAcinnamon4.jpg" class="img-fluid" alt="">
           </div>
 
           <div class="portfolio-info">

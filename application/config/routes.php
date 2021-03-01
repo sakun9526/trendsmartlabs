@@ -56,4 +56,10 @@ $route['translate_uri_dashes'] = FALSE;
 //============================================ application routes =============================================================//
 //$route['home']                                       = 'homepage/index';
 $route['webdevelopment']                             = 'homepage/webdevelopment';
-
+$route['cctvandaccesscontrol']						 = 'homepage/cctv_control';
+$route['cctvandaccesscontrol/sasitha']               = 'homepage/sasitha_aluthwala';
+$route['cctvandaccesscontrol/duminda']               = 'homepage/duminda_batapola';
+$route['cctvandaccesscontrol/dushani']               = 'homepage/dushani_delgoda';
+$route['cctvandaccesscontrol/ashan']                 = 'homepage/ashan_ganemulla';
+$route['cctvandaccesscontrol/renuka']                = 'homepage/renuka_meetiyagoda';
+$route['cctvandaccesscontrol/dasun']                 = 'homepage/dasun_rathmalana';
