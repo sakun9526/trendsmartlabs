@@ -217,7 +217,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="ri-pencil-ruler-2-fill"></i></div>
-              <h4><a href="">Graphic Design & Digital Marketing</a></h4>
+              <h4><a href="">Digital Advertising & Marketing</a></h4>
               <p></p>
             </div>
           </div>
@@ -233,7 +233,31 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="ri-building-4-fill"></i></div>
-              <h4><a href="">Interior Designing & Planning</a></h4>
+              <h4><a href="">Computer Aided Designing (CAD) and 3D Modelling</a></h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-folder-shield-2-fill"></i></div>
+              <h4><a href="">Networking & Security Solutions</a></h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-base-station-fill"></i></div>
+              <h4><a href="">Electrical / Power/ HVAC System Design </a></h4>
+              <p></p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="ri-gps-fill"></i></div>
+              <h4><a href="">Telecommunication Solutions</a></h4>
               <p></p>
             </div>
           </div>
