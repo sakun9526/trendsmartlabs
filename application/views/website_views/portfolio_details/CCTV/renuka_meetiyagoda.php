@@ -7,7 +7,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>CCTV Monitoring and Access Control</h2>
+          <h2>CCTV Monitoring</h2>
           <ol>
             <li><a href="<?php echo base_url();?>">Home</a></li>
             <li><a href="<?php echo base_url();?>cctvandaccesscontrol">CCTV Monitoring and Access Control</a></li>

@@ -71,4 +71,26 @@ class homepage extends CI_Controller {
 
 	}
 
+	//===================== Access control clients ================================================//
+
+	public function viduna_galle()
+	{
+		$this->load->view('./website_views/portfolio_details/ACCESSCONTROL/viduna_galle');
+
+	}
+
+
+	//====================== Security system clients =============================================//
+
+	public function randidujewellers_ambalangoda()
+	{
+		$this->load->view('./website_views/portfolio_details/SECURITYSYSTEM/randidujewellers_ambalangoda');
+
+	}
+
+	public function comingsoon()
+	{
+		$this->load->view('./website_views/portfolio_details/coming_soon');
+	}
+
 }

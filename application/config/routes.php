@@ -63,3 +63,7 @@ $route['cctvandaccesscontrol/dushani']               = 'homepage/dushani_delgoda
 $route['cctvandaccesscontrol/ashan']                 = 'homepage/ashan_ganemulla';
 $route['cctvandaccesscontrol/renuka']                = 'homepage/renuka_meetiyagoda';
 $route['cctvandaccesscontrol/dasun']                 = 'homepage/dasun_rathmalana';
+$route['cctvandaccesscontrol/viduna']                = 'homepage/viduna_galle';
+$route['cctvandaccesscontrol/randidu']               = 'homepage/randidujewellers_ambalangoda';
+$route['comingsoon']                                 = 'homepage/comingsoon';
+

@@ -117,6 +117,34 @@
             </div>
           </div>
 
+          <div class="col-lg-6 col-md-12 portfolio-item filter-access">
+            <div class="portfolio-wrap">
+              <img src="<?php echo asset_url();?>web_assets/img/portfolio/ACCESSCONTROL/galle_viduna/1.jpeg" class="img-fluid" alt="" style="height: 410px">
+              <div class="portfolio-info">
+                <h4>Viduna Institute - Galle</h4>
+                <p>Access Control</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo asset_url();?>web_assets/img/portfolio/ACCESSCONTROL/galle_viduna/1.jpeg" data-gall="portfolioGallery" class="venobox" title="Viduna Institute - Galle"><i class="bx bx-plus"></i></a>
+                  <a href="<?php echo base_url()?>cctvandaccesscontrol/viduna" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-12 portfolio-item filter-security">
+            <div class="portfolio-wrap">
+              <img src="<?php echo asset_url();?>web_assets/img/portfolio/SYSTEMSECURITY/GSM Alarm System-Ambalangoda-Randidu Jewellers/3.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4>Randidu Jewellers</h4>
+                <p>Security System</p>
+                <div class="portfolio-links">
+                  <a href="<?php echo asset_url();?>web_assets/img/portfolio/SYSTEMSECURITY/GSM Alarm System-Ambalangoda-Randidu Jewellers/3.jpg" data-gall="portfolioGallery" class="venobox" title="Randidu Jewellers - Ambalangoda"><i class="bx bx-plus"></i></a>
+                  <a href="<?php echo base_url()?>cctvandaccesscontrol/randidu" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
         </div>
 
       </div>
